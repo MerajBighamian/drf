@@ -1,2 +1,1 @@
-# drf
 # example drf project
